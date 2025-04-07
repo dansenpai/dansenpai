@@ -1,6 +1,6 @@
 <h3 align="center">Hello I'm Daniel</h3>
 
-- 🌱 I’m currently learning **Flutter, Socket.io, Rails**
+- 🌱 I’m currently learning **SpringBoot, Content Stack, Rails**
 
 - 🤝 I’m looking for help with **Realocation**
 
